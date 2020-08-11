@@ -17,6 +17,15 @@
     - [Knowledge check](#knowledge-check-1)
       - [What are 3 goals for storytelling and sketching?](#what-are-3-goals-for-storytelling-and-sketching)
   - [**Section 3: Story Mechanisms**](#section-3-story-mechanisms)
+    - [Linear logic](#linear-logic)
+    - [Change over time](#change-over-time)
+    - [Flow diagrams](#flow-diagrams)
+    - [Compare and contrast](#compare-and-contrast)
+    - [Progressive depth](#progressive-depth)
+    - [Personalization](#personalization)
+    - [Text](#text)
+    - [Knowledge check](#knowledge-check-2)
+      - [Name 2 story mechanisms and at least one argiment for using each kind. Try to use an example of a data story that takes advantage of that mechanism to give your answer context.](#name-2-story-mechanisms-and-at-least-one-argiment-for-using-each-kind-try-to-use-an-example-of-a-data-story-that-takes-advantage-of-that-mechanism-to-give-your-answer-context)
   - [**Section 4: Final Touches**](#section-4-final-touches)
 
 ## **Section 1: Why Storytelling**
@@ -212,6 +221,85 @@ Conclusion
 **[⬆ back to top](#table-of-contents)**
 
 ## **Section 3: Story Mechanisms**
+
+### Linear logic
+
+- Humans can only do one thing at a time as much as we like to think we can multitask. 
+- It's even more true that humans can only thoughtfully perceive one thing at a time, so providing one experience at a time in a step-by-step linear fashion makes perfect sense.
+
+[Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
+
+![](section-3/kurt-vonnegut-shapes-stories.png)
+
+![](section-1/event-conflict.jpg)
+
+[The fallen of WW2](http://www.fallen.io/ww2)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Change over time
+
+- Time-driven linear story
+- Example: Story of Napoleon's march on Moscow
+
+![Story of Napoleon's march on Moscow](section-3/napoleon-march.png)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Flow diagrams
+
+![](section-3/oil-flow-daily-lives.jpg)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Compare and contrast
+
+- An Inconvenient Truth By Al Gore
+- Alternate realities
+- This vs That
+- Compare apples to apples
+- [selfiecity](http://selfiecity.net)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Progressive depth
+
+- present simple, higher level information to people to get them to self-select in for deeper and more complex content, based on their interest in the subject matter.
+
+![](section-3/knowledge-content.jpg)
+
+[4X4 Model for Knowledge Content](https://medium.com/@billshander/4x4-model-for-knowledge-content-575cc7f24601)
+
+- Attract the right audience
+
+**[⬆ back to top](#table-of-contents)**
+
+### Personalization
+
+- Storytelling is a narcissistic thing.
+- Try to create stories consciously, that connect directly to your audience, and their need to understand certain things. 
+- The best way is to literally allow them to make the story about themselves via interactivity.
+- Example: [Nicholas Felton](http://feltron.com/FAR14.html)
+- Example: [Visualizing MBTA Data](http://mbtaviz.github.io)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Text
+
+![](section-3/text-1.jpg)
+
+- [Nine Charts about Wealth Inequality in America](https://apps.urban.org/features/wealth-inequality-charts)
+- Think like a journalist
+
+**[⬆ back to top](#table-of-contents)**
+
+### Knowledge check
+
+#### Name 2 story mechanisms and at least one argiment for using each kind. Try to use an example of a data story that takes advantage of that mechanism to give your answer context.
+
+- Linear Logic - humans can only do one thing at a time fits with your expectations and most common experiences with stories
+- Progressive Depth - when people want more information, you can give it to them, like in the EYP example, by offering clickable features for a deeper experience.
+
 **[⬆ back to top](#table-of-contents)**
 
 ## **Section 4: Final Touches**
