@@ -27,6 +27,13 @@
     - [Knowledge check](#knowledge-check-2)
       - [Name 2 story mechanisms and at least one argiment for using each kind. Try to use an example of a data story that takes advantage of that mechanism to give your answer context.](#name-2-story-mechanisms-and-at-least-one-argiment-for-using-each-kind-try-to-use-an-example-of-a-data-story-that-takes-advantage-of-that-mechanism-to-give-your-answer-context)
   - [**Section 4: Final Touches**](#section-4-final-touches)
+    - [Labeling](#labeling)
+    - [Eye candy](#eye-candy)
+    - [Repetition and Redundancy](#repetition-and-redundancy)
+    - [Relatability](#relatability)
+    - [Complexity](#complexity)
+    - [Knowledge check](#knowledge-check-3)
+      - [What are data redundancy and message redundancy?](#what-are-data-redundancy-and-message-redundancy)
 
 ## **Section 1: Why Storytelling**
 
@@ -303,4 +310,72 @@ Conclusion
 **[⬆ back to top](#table-of-contents)**
 
 ## **Section 4: Final Touches**
+
+### Labeling
+
+The importance of labeling
+
+![](section-4/labels.jpg)
+
+- Labels provide context and clarity
+
+![](section-4/labels-2.jpg)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Eye candy
+
+- Visually fresh
+- Alert to functionality
+- Draw the eye
+
+[Beehive Media](https://beehivemedia.com/)
+
+Summary
+
+- Always add value to communication
+
+**[⬆ back to top](#table-of-contents)**
+
+### Repetition and Redundancy
+
+- Message redundancy - Presented in multiple ways
+  - [CGAP](https://www.cgap.org/sites/default/files/publications/multimedia/cgap/index.html)
+- Data redundancy - Encoded in multiple ways
+- Visual redundancy - Reuse of visual metaphors
+
+Redundancy Tips
+
+- Labeling
+- Repeated metaphors
+- Tell them
+
+**[⬆ back to top](#table-of-contents)**
+
+### Relatability
+
+- Understandable - Defined in terms I know and understand
+- Relatable - Define a scale that makes sense
+- Impact - How does that affect me?
+- Example: [If the moon were only 1 pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- Example: [xkcd Money Chart](https://xkcd.com/980)
+- Example: [Radiation Dose Chart](https://xkcd.com/radiation)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Complexity
+
+- Don't be afraid of complexity
+- Example: [Visualizing MBTA Data](http://mbtaviz.github.io)
+- The totality can be complex, but try to make the elements as simple as possible.
+
+**[⬆ back to top](#table-of-contents)**
+
+### Knowledge check
+
+#### What are data redundancy and message redundancy?
+
+- Data redundancy is when you communicate the data more than once (like with the bar size and a value label). 
+- Message redundancy is when the message is communicated twice (like with a flag and a country name label).
+
 **[⬆ back to top](#table-of-contents)**
