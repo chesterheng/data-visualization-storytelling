@@ -10,6 +10,12 @@
     - [Knowledge check](#knowledge-check)
       - [What is the evolutionary advantage to storytelling and what is one technique you can use to maximize the impact of your stories?](#what-is-the-evolutionary-advantage-to-storytelling-and-what-is-one-technique-you-can-use-to-maximize-the-impact-of-your-stories)
   - [**Section 2: Story Structure**](#section-2-story-structure)
+    - [KWYRWTS](#kwyrwts)
+    - [Story structure](#story-structure)
+    - [Find the story in your data](#find-the-story-in-your-data)
+    - [Sketch and storyboard](#sketch-and-storyboard)
+    - [Knowledge check](#knowledge-check-1)
+      - [What are 3 goals for storytelling and sketching?](#what-are-3-goals-for-storytelling-and-sketching)
   - [**Section 3: Story Mechanisms**](#section-3-story-mechanisms)
   - [**Section 4: Final Touches**](#section-4-final-touches)
 
@@ -100,6 +106,109 @@ Stories feel like reality and they help us experience, and then resolve, anxiety
 **[⬆ back to top](#table-of-contents)**
 
 ## **Section 2: Story Structure**
+
+### KWYRWTS
+
+- KWYRWTS stands for Know What You Really Want To Say
+- "What's the story in the data?" 
+- You have to get the actual message together before you can tell a story.
+- KWYDIS stands for know what your data is saying.
+- You need to know what you want to focus on, but you need to really investigate the data and discover what stories are available to you in your data.
+- KWYANTH stands for Know what your audience needs to hear
+
+![](section-2/kwy.jpg)
+
+- Get to the single idea or the fives ideas of the eight ideas you need to communicate. 
+- Know which is the most important and which is the least
+- Have your core message and thoughts organized
+- Tell the story around those concepts
+
+Example: [Global brand-simplicity-index-2015](https://www.slideshare.net/clhayes1110/global-brandsimplicityindex2015)
+
+- They knew what they really wanted to say. 
+- It's all about simplicity, even though they look at it from many, many different directions.
+
+**[⬆ back to top](#table-of-contents)**
+
+### Story structure
+
+- A story is how what happens affects someone who is trying to achieve what turns out to be a difficult goal and how he or she changes as a result - Lisa Cron
+  - how what happens, that's the plot
+  - affects someone, the protagonist, who's trying to achieve what turns out to be a difficult goal, this is the story problem, 
+  - the challenge the protagonist faces,
+  - how he or she changes as a result, the so what.
+
+- The other critical aspect of a good story is anxiety. That story problem and that transformation is always experienced by the reader as anxiety and the resolution of anxiety. - Micheal Austin
+
+- Storytelling for thousands of years was purely oral tradition.
+- Then came drawings on cave walls. 
+- Stories are linear, step-by-step things. 
+ 
+What does linearity do? 
+
+- Primarily, linear storytelling
+- starting at the beginning and moving to a conclusion, mimics real life.
+- The beginning sets the context for what we're about to hear,
+- The middle explains what's going on, allowing us to wander and explore the universe of ideas being presented and get introduced to the anxieties that need resolving,
+- The conclusion, resolves those anxieties, teaching us how to solve problems and what transformation characters have to go through to do so.
+
+**[⬆ back to top](#table-of-contents)**
+
+### Find the story in your data
+
+Income distribution exercise
+
+- [Share of Aggregate Income Received by Each Fifth and Top 5 Percent of Households](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)
+- Refer to 02_03.xls
+
+![](section-2/why.jpg)
+
+**[⬆ back to top](#table-of-contents)**
+
+### Sketch and storyboard
+
+- Vet and Test: Experimentation is your friend - you want to try your ideas, see what doesn't fail
+- Structure: What are the order, the information hierarchy and pace?
+- Speed: Move quickly, fail fast and often, sketch, don't strive for perfection.
+
+- The only way I've found to do real trial and error with this type of work, is to work using your hands, not a computer. 
+- In other words, break out a pen and paper, or a white board.
+
+Storyboarding = finding structure
+
+- Storyboarding is the part where you're figuring out the structure and order of your story. 
+- Assuming you are creating a linear story, the idea is to figure out what comes first, what's in that piece of the story, then what happens? And then what after that? 
+- You have a series of panels, and the idea is to fill in the panels with the basic idea, for each story segment.
+- See exactly how the story's gonna come to life
+
+![](section-2/structure.jpg)
+
+Storyboard In Practice #1
+
+![Example](section-2/linearity.jpg)
+
+Storyboard In Practice #2
+
+- [Dear Data](http://www.dear-data.com)
+
+Except sometimes, your storyboarding and sketching is gonna reveal to you, that you have a great idea, and a great story, but your data just doesn't support your ideas.
+
+Conclusion
+
+- Work in analog, use your hands
+- Organize your story structure, experiment a lot
+- Fail a lot, test your ideas every step of the way.
+
+**[⬆ back to top](#table-of-contents)**
+
+### Knowledge check
+
+#### What are 3 goals for storytelling and sketching?
+
+- vet & test your ideas
+- figure out the structure and hierarchy of your story
+- fail quickly and try again
+
 **[⬆ back to top](#table-of-contents)**
 
 ## **Section 3: Story Mechanisms**
